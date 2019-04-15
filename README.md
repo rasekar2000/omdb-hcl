@@ -30,7 +30,7 @@ To get 'Rotten Tomatoes' rating please use this  *OMDB HCL API Here*, check out 
    chmod +x docker.omdb_py3_alpine.sh
    ```
    </pre>
-3. In the command prompt go to the *scripts* folder
+3. In the command prompt go to the *scripts* folder to 
    <pre>
 
    **build & run** `docker`.
@@ -38,7 +38,7 @@ To get 'Rotten Tomatoes' rating please use this  *OMDB HCL API Here*, check out 
    ./docker.omdb_py3_alpine.sh stop-build-run
    ```
    </pre>
-4. Compose an email in Markdown. For example:
+4. In the command prompt go to the *scripts* folder to 
 
    <pre>
    **Test** `getMovieRating`.
