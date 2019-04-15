@@ -7,7 +7,7 @@ To get 'Rotten Tomatoes' rating please use this  *OMDB HCL API Here*, check out 
 ### Table of Contents
 **[Installation Instructions](#installation-instructions)**<br>
 **[Usage Instructions](#usage-instructions)**<br>
-
+**[Test Results](#test-results)**<br>
 
 ## Installation Instructions
 
@@ -51,6 +51,8 @@ To get 'Rotten Tomatoes' rating please use this  *OMDB HCL API Here*, check out 
        Negative : {"rating": "-1%"} means No value retrieved from OMDB API
    	   Postive  : Any other rating value is retrieved from OMDB API
    </pre>
+
+## Test Results
 
 ![screenshot of conversion](https://github.com/rasekar2000/omdb-hcl/blob/master/Install.Run.png?raw=true)
 
