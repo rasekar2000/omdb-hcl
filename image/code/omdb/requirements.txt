@@ -1,0 +1,4 @@
+# pip3 install -r /home/omdb/requirements.txt
+Flask==1.0.2
+requests
+#os
