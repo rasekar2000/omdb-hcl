@@ -52,5 +52,5 @@ To get 'Rotten Tomatoes' rating please use this  *OMDB HCL API Here*, check out 
    	   Postive  : Any other rating value is retrieved from OMDB API
    </pre>
 
-![screenshot of conversion](https://raw.github.com/rasekar2000/omdb-hcl/Install.Run.png)
+![screenshot of conversion](https://github.com/rasekar2000/omdb-hcl/blob/master/Install.Run.png?raw=true)
 
